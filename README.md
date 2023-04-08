@@ -11,6 +11,6 @@
 ---
 ## FAQ
 1. 
-问题：出现 “conda env setup failed” 错误提示导致进行中断
+问题：出现 “Conda environment creation failed.” 错误提示导致进行中断
 
 解决方法：删除 oobabooga-windows\installer_files 下的 env文件夹，重新运行 install.bat
