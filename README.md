@@ -1,0 +1,2 @@
+# Oobabooga-oneClick-proxied
+通过修改Oobabooga的一键安装脚本来加速中国用户下载
