@@ -13,4 +13,9 @@
 1. 
 问题：出现 “Conda environment creation failed.” 错误提示导致进行中断
 
-解决方法：删除 oobabooga-windows\installer_files 下的 env文件夹，重新运行 install.bat
+解决方法：删除 ~\oobabooga-windows\installer_files 下的 env文件夹，重新运行 install.bat
+
+2. 
+问题：Collecting git+https://ghproxy.com/https://github.com/huggingface/transformers (from -r requirements.txt (line 15))
+
+解决方法：替换 ~\oobabooga-windows\text-generation-webui 下的 requirements.txt，重新运行 install.bat
